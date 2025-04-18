@@ -13,18 +13,20 @@ The evaluation uses cross-validation, confusion matrices, and ROC curves to comp
 
 The dataset contains 11 variables with the following definitions
 
-Variable        Definition
-Risk            1 if firm found to have evaded taxes after audit; 0 otherwise
-Sector          Historical risk score for the industry sector of a firm
-PARA A          Discrepancy found in planned expenditure (in crore)
-Risk A          Risk score computed from Para A and firm traits
-PARA B          Discrepancy found in unplanned expenditure (in crore)
-Risk B          Risk score computed from Para B and firm traits
-Money Value     Firm revenue in past 2 years
-Risk D          Risk score computed from some firm traits
-Score           Comprehensive risk score
-Inherent Risk   Firm's historical risk score
-Audit Risk      Total discrepancy score computed from examining firm tax returns
+| Variable      | Definition                                                                 |
+| ------------- | -------------------------------------------------------------------------- |
+| Risk          | 1 if firm found to have evaded taxes after audit; 0 otherwise             |
+| Sector        | Historical risk score for the industry sector of a firm                    |
+| PARA A        | Discrepancy found in planned expenditure (in crore)                        |
+| Risk A        | Risk score computed from Para A and firm traits                            |
+| PARA B        | Discrepancy found in unplanned expenditure (in crore)                      |
+| Risk B        | Risk score computed from Para B and firm traits                            |
+| Money Value   | Firm revenue in past 2 years                                               |
+| Risk D        | Risk score computed from some firm traits                                  |
+| Score         | Comprehensive risk score                                                   |
+| Inherent Risk | Firm's historical risk score                                               |
+| Audit Risk    | Total discrepancy score computed from examining firm tax returns           |
+
 
 
 ## 📊 Key Findings
