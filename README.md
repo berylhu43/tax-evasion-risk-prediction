@@ -1,4 +1,3 @@
-# tax-evasion-risk-prediction
 # Tax Evasion Detection with Machine Learning
 
 ## 📌 Project Overview
