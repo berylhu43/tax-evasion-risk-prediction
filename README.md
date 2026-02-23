@@ -50,9 +50,3 @@ We chose **KNN with K=1 and standard scaling** for its superior performance. Log
 
 The data only contains **audited firms**, introducing **selection bias**. Models may not generalize well to unaudited companies or detect emerging fraud patterns.
 
-## 🛠️ How to Run
-
-1. Clone the repository
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
